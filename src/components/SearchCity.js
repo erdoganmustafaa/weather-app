@@ -28,7 +28,7 @@ function SearchCity({setWeatherResult}) {
          onKeyPress={searchCity}
          />
       <br></br>
-      <button className="search-btn">Search</button>
+      
 
     </div>
      
